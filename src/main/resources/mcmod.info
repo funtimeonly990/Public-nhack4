@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "nhack4",
+    "name": "nhack4",
+    "description": "Client intended for 1.12 Anarchy servers.",
+    "version": "0.1.0",
+    "mcversion": "1.12.2",
+    "logoFile": "nhack4.png",
+    "url": "https://discord.gg/PyQcNmht",
+    "updateUrl": "",
+    "authorList": [
+      "MrBubblegum",
+      "ryo"
+    ],
+    "screenshots": [gui.png],
+    "dependencies": []
+  }
+]
